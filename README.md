@@ -29,7 +29,7 @@ This is a simple Event Booking API built using **Laravel** to manage events, att
 ### Step-by-Step Setup:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/event-booking-api.git
+   git clone https://github.com/mborhade/laravel_event_booking_api.git
    cd event-booking-api
 2. Install dependencies:
     composer install
